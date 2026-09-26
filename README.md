@@ -1,17 +1,18 @@
 # Pesquisa de Satisfação ao Cliente 📝
 
 💡 Este projeto foi criado para treinar estruturas de repetição
+
  Linguagem usada: Python
 
  # Como executar o programa:
 
-O programa pede para digitar o nome,
- 🎂 Idade,
- Escolher o grau de satisfação com o atendimento prestado:
+ * O programa pede para digitar o nome,
+ * 🎂 Idade,
+ * Escolher o grau de satisfação com o atendimento prestado:
  1 - Excelente 🤩
  2 - Bom 😊
  3 - Ruim 😡
- E finaliza mostrando a quantidade de:
+ * E finaliza mostrando a quantidade de:
  1 - Excelente 👍
  3 - Ruim  👎
  
