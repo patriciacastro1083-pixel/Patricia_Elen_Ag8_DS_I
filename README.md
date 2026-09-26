@@ -9,12 +9,12 @@
  * O programa pede para digitar o nome,
  * 🎂 Idade,
  * Escolher o grau de satisfação com o atendimento prestado:
- 1 - Excelente 🤩
- 2 - Bom 😊
- 3 - Ruim 😡
+ * 1 - Excelente 🤩
+ * 2 - Bom 😊
+ * 3 - Ruim 😡
  * E finaliza mostrando a quantidade de:
- 1 - Excelente 👍
- 3 - Ruim  👎
+ * 1 - Excelente 👍
+ * 3 - Ruim  👎
  
   <!-- Logo do Python centralizado -->
 <p align="center">
